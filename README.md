@@ -1,7 +1,7 @@
 # Phantom Dashboard
 
 <p align="center">
-  <img src="docs/images/phantom-dashboard-banner.png" alt="Phantom Dashboard" width="600">
+  <img src="https://github.com/user-attachments/assets/ab676236-6330-4353-a322-a97d0ed0a095" alt="Phantom Dashboard" width="600">
 </p>
 
 <p align="center">
