@@ -92,10 +92,12 @@ Phantom Dashboard is a Flutter iOS application that provides real-time command a
 ## Screenshots
 
 <p align="center">
-  <img src="docs/images/dashboard.png" width="200">
-  <img src="docs/images/command-center.png" width="200">
-  <img src="docs/images/loot-browser.png" width="200">
-  <img src="docs/images/settings.png" width="200">
+
+<img width="200" src="https://github.com/user-attachments/assets/9a8b0a3e-29fc-4e46-b9d0-b8e738525301" />
+<img width="200" src="https://github.com/user-attachments/assets/d8e9a9e0-efda-459b-bd7e-a118ed9a324a" />
+<img width="200" src="https://github.com/user-attachments/assets/46a205fd-ea11-431b-a87b-504585fb9285" />
+<img width="200" src="https://github.com/user-attachments/assets/f294f6a4-5a69-45a4-8d5c-db9d4fb765b6" />
+
 </p>
 
 ---
